@@ -1,27 +1,11 @@
 - sitename: GitHub
-  name: mzlogin
-  url: https://github.com/mzlogin
-
-- sitename: 掘金
-  name: mzlogin
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
-
-- sitename: LinkedIn
-  name: mazhuang
-  url: https://www.linkedin.com/in/mazhuang
-
+  name: dogkun
+  url: https://github.com/dogkun
+  
+- sitename: 共享论坛
+  name: 阿狗君同志
+  url: http://bbs.sharer.cf/home.php?mod=space&uid=1&do=profile
+  
 - sitename: 博客
-  name: 码志
+  name: 阿狗君
   url: http://mazhuang.org
-
-- sitename: 微博
-  name: mzlogin
-  url: http://weibo.com/mzlogin
-
-- sitename: 知乎
-  name: mzlogin
-  url: http://www.zhihu.com/people/mzlogin
-
-- sitename: 豆瓣
-  name: 闷骚的程序员
-  url: http://www.douban.com/people/freedim
