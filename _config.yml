@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: blog.dogkun.ml
+url: /
 date_format: "ordinal"
 title: 阿狗君聚集地
 subtitle: "阿狗君の博客"
