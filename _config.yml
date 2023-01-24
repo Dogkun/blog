@@ -52,12 +52,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: 阿狗君
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: dogkun
+location: henan, China
+email: dogkun@sharer.cf
 
 # ---------------- #
 #    Navigation    #
@@ -90,9 +90,6 @@ navs:
   -
     href: /about/
     label: 关于
-  -
-    href: http://bbs.sharer.cf
-    label: 共享论坛
 
 # ---------------- #
 #       RSS        #
